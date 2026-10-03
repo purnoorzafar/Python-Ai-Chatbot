@@ -1,4 +1,3 @@
-# Ai-Chatbot-Python
 # 🤖 AI Chatbot using Python
 
 A simple AI-powered chatbot built with Python that accepts user messages, sends them to an AI model through an API, receives the generated response, and displays it to the user.
